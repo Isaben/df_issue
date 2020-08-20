@@ -1,0 +1,22 @@
+{
+  "name": "dialogflow_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaben/df_issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaben/df_issue/issues"
+  },
+  "homepage": "https://github.com/Isaben/df_issue#readme",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.2.0"
+  }
+}
